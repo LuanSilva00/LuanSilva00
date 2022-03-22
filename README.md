@@ -1,4 +1,4 @@
-- 👋 Olá, me chamo Luan Silva, iniciei minha jornada no desenvolvimento em janeiro de 2022, e estou em busca de oportunidades.
+- 👋 Olá, me chamo Luan Silva, iniciei minha jornada no desenvolvimento em janeiro de 2022.
 - 👀 Estudando Desenvolvimento WEB / React
 
 <!---
