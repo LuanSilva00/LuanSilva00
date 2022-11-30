@@ -1,4 +1,4 @@
-- 👋 Olá, me chamo Luan Silva, iniciei minha jornada no desenvolvimento em janeiro de 2022.
+- 👋 Olá, me chamo Luan Silva, sou programador Back-end.
 
 <!---
 LuanSilva00/LuanSilva00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
