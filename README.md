@@ -1,4 +1,5 @@
-- 👋 Olá, me chamo Luan Silva, sou programador Back-end.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanSilva00)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 LuanSilva00/LuanSilva00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
