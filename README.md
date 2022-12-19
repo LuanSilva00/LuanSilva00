@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanSilva00&count_private=true)
+- 👋 Olá, me chamo Luan Silva, sou programador Back-end.
 
 
 
